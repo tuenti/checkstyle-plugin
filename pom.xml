@@ -10,7 +10,7 @@
 
   <artifactId>checkstyle</artifactId>
   <packaging>hpi</packaging>
-  <name>Checkstyle Plug-in</name>
+  <name>Tuenti Checkstyle Plug-in</name>
   <version>3.32</version>
   <url>http://wiki.jenkins-ci.org/x/GYCGAQ</url>
   <description>This plug-in generates the trend report for
